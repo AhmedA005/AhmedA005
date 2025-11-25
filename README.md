@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  <img src="file:///mnt/data/7b671b28-ec14-4d1d-8b59-a9a0ae4bd0da.png" height="30" alt="Postman" />
+  <img src="[file:///mnt/data/7b671b28-ec14-4d1d-8b59-a9a0ae4bd0da.png](https://camo.githubusercontent.com/8829178716e96490611624f85c953c0805643f4d1645057ba5d29d021957d407/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f73746d616e)" height="30" alt="Postman" />
 </p>
 
 ---
