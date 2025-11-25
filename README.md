@@ -5,6 +5,7 @@
   Software Engineer | AI & Back-end Enthusiast
 </p>
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -86,7 +87,8 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouzad/maurodesouzad/output/snake.svg" />
+  <!-- Replace 'output/snake.svg' after running the workflow -->
+  <img src="https://raw.githubusercontent.com/ahmeda05/ahmeda05/output/snake.svg" alt="Contribution Snake" />
 </div>
 
 ---
