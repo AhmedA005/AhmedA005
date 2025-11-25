@@ -69,7 +69,7 @@
 ## 🧩 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/ahmeda05?theme=dark&font=Baloo%202&border=0" height="210" />
+  <img src="https://leetcard.jacoblin.cool/AhmedAhmed05?theme=dark&font=Baloo%202&border=0" height="210" />
 </div>
 
 ---
