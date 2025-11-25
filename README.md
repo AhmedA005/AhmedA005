@@ -2,10 +2,9 @@
 
 <p align="left">
   Senior CS Student @ Cairo University <br>
-  Backend Engineer | AI & Systems Enthusiast
+  Software Engineer | AI & Back-end Enthusiast
 </p>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -70,6 +69,16 @@
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/AhmedAhmed05?theme=dark&font=Baloo%202&border=0" height="210" />
+</div>
+
+---
+
+## 📄 Resume
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/1Ios_gfGlSynJvCbasnfDRL17WeQHJ4u8/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
+  </a>
 </div>
 
 ---
