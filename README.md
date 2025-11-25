@@ -60,8 +60,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmeda05&show_icons=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeda05&layout=compact&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmeda05&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeda05&layout=compact&theme=dracula&hide_border=false&langs_count=10" height="150" />
 </div>
 
 ---
@@ -87,7 +87,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <!-- Replace 'output/snake.svg' after running the workflow -->
+  <!-- Snake will appear after you run the workflow -->
   <img src="https://raw.githubusercontent.com/ahmeda05/ahmeda05/output/snake.svg" alt="Contribution Snake" />
 </div>
 
