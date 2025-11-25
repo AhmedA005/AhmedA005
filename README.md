@@ -10,10 +10,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzad.maurodesouzad&"  />
-</div>
-
 ###
 
 <h2 align="left">I code with</h2>
