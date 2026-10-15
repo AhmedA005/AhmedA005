@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Ahmed!</h1>
 
 <p align="center">
-  Senior CS Student @ Cairo University | Software Engineer | AI & Backend Enthusiast
+  Junior Software Engineer | AI & Backend Enthusiast
 </p>
 
 ---
